@@ -1,9 +1,9 @@
 {
-  "name": "sao-preplan",
-  "version": "0.0.2",
-  "description": "a generator for common-preplan-system",
+  "name": "sao-generator",
+  "version": "1.0.0",
+  "description": "generators of sao scaffold",
   "repository": {
-    "url": "iuiaoin/sao-preplan",
+    "url": "iuiaoin/sao-generator",
     "type": "git"
   },
   "author": "iuiaoin <478528180@qq.com> (iuiaoin.github.io)",

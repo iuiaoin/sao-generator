@@ -1,27 +1,17 @@
-# sao-preplan
+# sao-generator
 
-> a generator for common-preplan-system
+> Generators of sao scaffold.
 
 ## Usage
 
 Install [SAO](https://github.com/saojs/sao) first.
 
-```bash
-yarn global add sao
-# or
-npm i -g sao
-```
 
 ### From npm
 
 ```bash
-sao preplan my-project
-```
-
-### From git
-
-```bash
-sao iuiaoin/sao-preplan my-project
+// 'preplan' is a branch name without 'sao-' which means a type of generator. It is preplan here.
+sao preplan my-project    
 ```
 
 ## License
