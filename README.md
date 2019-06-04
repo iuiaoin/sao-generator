@@ -14,6 +14,9 @@ Install [SAO](https://github.com/saojs/sao) first.
 sao preplan my-project    
 ```
 
+### Explaination
+Diffrent generators are managed via different branches.
+
 ## License
 
 MIT &copy; [iuiaoin](iuiaoin.github.io)
