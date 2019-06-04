@@ -1,0 +1,25 @@
+{
+  "name": "sao-preplan",
+  "version": "0.0.2",
+  "description": "a generator for common-preplan-system",
+  "repository": {
+    "url": "iuiaoin/sao-preplan",
+    "type": "git"
+  },
+  "author": "iuiaoin <478528180@qq.com> (iuiaoin.github.io)",
+  "license": "MIT",
+  "files": [
+    "saofile.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "superb": "^1.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "sao": "^1.0.0"
+  }
+}
