@@ -18,12 +18,6 @@ npm i -g sao
 sao preplan my-project
 ```
 
-### From git
-
-```bash
-sao iuiaoin/sao-preplan my-project
-```
-
 ## License
 
 MIT &copy; [iuiaoin](iuiaoin.github.io)
